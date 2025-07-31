@@ -1,0 +1,15 @@
+title: Muze Interactive
+description: Musicians who also love education, tech and software.
+theme: jekyll-theme-architect
+
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  auto_ids: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .claude

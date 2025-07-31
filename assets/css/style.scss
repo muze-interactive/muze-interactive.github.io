@@ -1,0 +1,67 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#header_wrap {
+  background: #b5b5b5;
+  background-image: linear-gradient(to bottom, #d2d2d2 0%, #9a9a9a 100%);
+}
+
+#header_wrap > header.inner {
+  position: relative;
+  background: transparent;
+  border-bottom: none;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+#forkme_banner {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  padding: 4px 10px;
+  background: rgba(0, 0, 0, 0.18);
+  color: #1a1a1a;
+  font-size: 13px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+#forkme_banner:hover {
+  background: rgba(0, 0, 0, 0.3);
+  color: #000;
+}
+
+#project_brand {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+#project_logo {
+  display: block;
+  flex: 0 0 auto;
+  width: 96px;
+  height: auto;
+  margin: 0;
+}
+
+#project_text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+#header_wrap #project_title {
+  width: auto;
+  margin: 0 0 0.15em;
+  color: #1a1a1a;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.35);
+}
+
+#header_wrap #project_tagline {
+  width: auto;
+  margin: 0;
+  color: #1a1a1a;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.35);
+}
