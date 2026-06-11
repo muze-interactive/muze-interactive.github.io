@@ -7,15 +7,23 @@ Welcome!
 
 ## About us
 
-We are a group of musicians who also love education, tech and software.
+Actually "us" is current a band of one, but I'm hoping to expand to others.
 
-Here you'll see themes about learning and education, equipment, jam and gig logistics.
+My name is Bill.
 
-We intend to reduce friction from being able to do what we love most: Read, Write, Produce, Listen and/or Play!
+I have nearly 40 years that I've been playing rhythm guitar, keys, or bass
+or dabbling in music production and sound engineering.
+Psst, I really love bass.
+
+Here you'll see themes about anything music: learning and education, practice, performance, etc.
+
+Whatever I do is with intent to reduce friction from being able to do what we love most: Read, Write, Produce, Listen and/or Play!
 
 Much of the projects will be freely accessible via open source for folks to play around with,
 and give feedback.
 Some may lead to either free or low cost service offerings available online.
+
+Oh, did I mention I *really* love bass?  Apologies in advance.  ;)
 
 ## Project candidates
 
