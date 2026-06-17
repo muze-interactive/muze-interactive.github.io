@@ -1,3 +1,10 @@
+---
+layout: default
+title: Goals
+noindex: true
+sitemap: false
+---
+
 # Goals
 
 The area of music is *huge*.
@@ -22,6 +29,7 @@ Practice
     - Voculary and Canon
     - Bassline Creation
     - Ear Training
+    - Improvisation
 
 Performance
 - Jams
