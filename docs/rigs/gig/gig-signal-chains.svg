@@ -35,12 +35,12 @@
   <!-- Vocal Mic 1 -->
   <rect x="30" y="110" width="200" height="64" rx="10" fill="#e0f2fe" stroke="#0284c7" stroke-width="1.5"/>
   <text class="l" x="130" y="138">Vocal Mic 1</text>
-  <text class="s" x="130" y="158">vocalist · lead vocal</text>
+  <text class="s" x="130" y="158">Band Leader · lead vocal</text>
 
   <!-- Vocal Mic 2 -->
   <rect x="30" y="196" width="200" height="64" rx="10" fill="#e0f2fe" stroke="#0284c7" stroke-width="1.5"/>
   <text class="l" x="130" y="224">Vocal Mic 2</text>
-  <text class="s" x="130" y="244">vocalist · backup / lead</text>
+  <text class="s" x="130" y="244">Band Leader · backup / lead</text>
 
   <!-- Guitar Rig -->
   <rect x="30" y="300" width="200" height="72" rx="10" fill="#e0f2fe" stroke="#0284c7" stroke-width="1.5"/>
@@ -90,7 +90,7 @@
   <rect x="780" y="120" width="180" height="470" rx="12" fill="#ffe4e6" stroke="#e11d48" stroke-width="2"/>
   <text class="l" x="870" y="345">Yamaha Mixer</text>
   <text class="s" x="870" y="366">12-channel</text>
-  <text class="s" x="870" y="382">vocalist · FOH</text>
+  <text class="s" x="870" y="382">Band Leader · FOH</text>
 
   <!-- ===================== POWER AMPS ===================== -->
   <rect x="1040" y="160" width="180" height="80" rx="10" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.5"/>
@@ -219,7 +219,7 @@
   <line x1="1248" y1="730" x2="1270" y2="730" class="integ"/>
   <text class="lb" x="1280" y="735">My rig → FOH</text>
 
-  <text class="lb" x="1032" y="800"><tspan font-weight="600">Owners:</tspan> bassist (this rig), vocalist (FOH +</text>
+  <text class="lb" x="1032" y="800"><tspan font-weight="600">Owners:</tspan> bassist (this rig), Band Leader (FOH +</text>
   <text class="lb" x="1032" y="820">vocals), guitarist, drummer. Heavier borders =</text>
   <text class="lb" x="1032" y="840">the bass rig owned &amp; carried by the bassist.</text>
 </svg>

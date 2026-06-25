@@ -2,11 +2,11 @@
 
 This is an **example full-band gig configuration** — a front-of-house (FOH) PA and
 stage setup that the bassist plays *into*, rather than one they own or run. Most of
-the rig belongs to bandmates: the **vocalist** supplies the FOH (mixer, power amps,
+the rig belongs to bandmates: the **Band Leader** supplies the FOH (mixer, power amps,
 mains, monitors, sub, conditioner) and vocals, the **guitarist** brings their own
 guitar rig, and the **drummer** brings the drums. **The bassist's contribution is
 the bass signal chain**, which integrates with the PA at FOH through a single,
-consistent handoff: the **Radial JDI**'s XLR DI output into the vocalist's mixer.
+consistent handoff: the **Radial JDI**'s XLR DI output into the Band Leader's mixer.
 
 > Roles are used in place of names throughout, so this can serve as a general
 > example. "Mine" / first-person refers to the bassist whose rig is documented.
@@ -66,7 +66,7 @@ daisy-chain used in the [Performance Rig](../../README.md#performance-rig):
 
 All AC comes from the **venue wall** over two 50 ft runs:
 
-- **Run #1 → Power Conditioner** (in the vocalist's FOH rack), which feeds the
+- **Run #1 → Power Conditioner** (in the Band Leader's FOH rack), which feeds the
   **Yamaha mixer**, **Carvin**, **QCS**, and **Behringer** amps — all 120 VAC.
 - **Run #2 → Stage Fanout**, split by three 10 ft extension cords to per-area
   **power strips** (guitar, drums, bass), plus a fourth strip for the bass monitor
@@ -87,14 +87,13 @@ charged off USB).
 | Owner | Supplies |
 |-------|----------|
 | **Bassist (me)** | Bass signal chain — basses, HX Stomp, MXR, Radial JDI, TE ELF + 10" cab, GK Fusion 112, iPad |
-| **Vocalist / FOH** | FOH — Yamaha mixer, Carvin / QCS / Behringer amps, mains / monitors / sub, power conditioner, vocal mics + stands, TC Helicon, iPhone, BT/TRS adapter |
+| **Band Leader / FOH** | FOH — Yamaha mixer, Carvin / QCS / Behringer amps, mains / monitors / sub, power conditioner, vocal mics + stands, TC Helicon, iPhone, BT/TRS adapter |
 | **Guitarist** | Guitar rig (own FX + combo) |
 | **Drummer** | Drum kit and drum mics |
 
 ## Bill of Materials
 
-Backed by the BOM worksheet in the gig spreadsheet. Ownership columns indicate who
-brings each item.
+Raw list, and who brings what...
 
 ### The most important components...
 
@@ -113,7 +112,7 @@ Gotta keep the drummer cool, and the band dry.
 |------|-----|-------|-------|
 | Drum Kit | 1 | Drummer | |
 | Guitar | 1 | Guitarist | |
-| Ibanez SR500/2600 | 2 | Vocalist / Bassist | Vocalist's primary; bassist's primary 4-string. Keep 9 VDC on hand |
+| Ibanez SR500/2600 | 2 | Bassist Primary 4-string. Keep 9 VDC on hand |
 | Ibanez SRMS725 | 1 | Bassist | Primary 5-string. Keep 9 VDC on hand |
 | Sterling RAY35 H | 1 | Bassist | Backup 5-string. 9 VDC on hand |
 | Hercules Stand | 1 | Bassist | Holds up to 3 basses |
@@ -122,11 +121,11 @@ Gotta keep the drummer cool, and the band dry.
 
 | Item | Qty | Owner |
 |------|-----|-------|
-| Voice Mics | 2 | Vocalist |
-| Guitar Amp Mic | 1 | Vocalist |
+| Voice Mics | 2 | Band Leader |
+| Guitar Amp Mic | 1 | Band Leader |
 | Drum Mics | 3 | Drummer |
-| Voice Mic Stands | 2 | Vocalist |
-| Guitar Mic Stand | 1 | Vocalist |
+| Voice Mic Stands | 2 | Band Leader |
+| Guitar Mic Stand | 1 | Band Leader |
 | Drum Mic Stands | 3 | Drummer |
 
 ### FX
@@ -135,7 +134,7 @@ Gotta keep the drummer cool, and the band dry.
 |------|-----|-------|-------|-------|
 | HX Stomp | 1 | 12 VDC adapter | Bassist | Primary bass FX rig |
 | MXR Compressor | 1 | 9 VDC adapter | Bassist | Backup bass FX rig |
-| TC Helicon Mic Mechanic | 1 | 9 V battery / adapter | Vocalist | Vocal FX |
+| TC Helicon Mic Mechanic | 1 | 9 V battery / adapter | Band Leader | Vocal FX |
 | Radial JDI Passive | 1 | — | Bassist | Bass-rig FOH DI |
 | Guitar FX | — | — | Guitarist | Guitarist covers, independent of FOH |
 
@@ -148,11 +147,11 @@ Gotta keep the drummer cool, and the band dry.
 | GK Fusion 112 Combo | 1 | Bassist |
 | GK Drive Footswitch | 1 | Bassist |
 
-### FOH (vocalist)
+### FOH (Band Leader)
 
 | Item | Qty | Notes |
 |------|-----|-------|
-| iPad | 1 | Backing tracks (USB-C) — actually the bassist's; iPhone is the vocalist's |
+| iPad | 1 | Backing tracks (USB-C) — actually the bassist's; iPhone is the Band Leader's |
 | iPad Stand | 1 | |
 | iPhone | 1 | Lightning |
 | Bluetooth / TRS Stereo Adapter | 1 | |
@@ -169,15 +168,15 @@ Gotta keep the drummer cool, and the band dry.
 
 | Item | Qty | Owner | Purpose |
 |------|-----|-------|---------|
-| NEMA 5-15P → IEC-320-C13, 120 VAC | 7 | Bassist (2: GK+TE) / vocalist (5) | 3 FOH amps, mixer, 2 bass monitor amps |
-| 120 VAC extension cord, 50 ft | 2 | Vocalist | 1 for power conditioner, 1 for everything else |
-| 120 VAC extension cord, 10 ft | 3 | Bassist (1) / vocalist (2) | Fanout to guitar, drums, bass areas |
-| Power Strips | 4 | Bassist (1) / vocalist (3) | One per fanout + 1 for bass monitor setup |
-| SpeakOn cable, 25 ft | 2 | Vocalist | Mains |
-| TRS speaker cable, 25 ft | 3 | Vocalist | Monitors, sub |
+| NEMA 5-15P → IEC-320-C13, 120 VAC | 7 | Bassist (2: GK+TE) / Band Leader (5) | 3 FOH amps, mixer, 2 bass monitor amps |
+| 120 VAC extension cord, 50 ft | 2 | Band Leader | 1 for power conditioner, 1 for everything else |
+| 120 VAC extension cord, 10 ft | 3 | Bassist (1) / Band Leader (2) | Fanout to guitar, drums, bass areas |
+| Power Strips | 4 | Bassist (1) / Band Leader (3) | One per fanout + 1 for bass monitor setup |
+| SpeakOn cable, 25 ft | 2 | Band Leader | Mains |
+| TRS speaker cable, 25 ft | 3 | Band Leader | Monitors, sub |
 | TRS unbalanced, 25 ft | 2 | Bassist (1) / guitarist (1) | Bass / guitar signal chain |
-| XLR male→female, 25 ft | 7 | Bassist (1) / vocalist (6) | Vocal, drums, guitar mics, bass DI |
-| TRS → XLR (female), 25 ft | 1 | Vocalist | Vocal FX (TRS) to mixer |
+| XLR male→female, 25 ft | 7 | Bassist (1) / Band Leader (6) | Vocal, drums, guitar mics, bass DI |
+| TRS → XLR (female), 25 ft | 1 | Band Leader | Vocal FX (TRS) to mixer |
 | XLR (male) → TRS, 6 ft | 1 | Bassist | TE ELF DI to GK send |
 
 > **Source:** the gig spreadsheet (component/cabling and BOM worksheets). Connector
