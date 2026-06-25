@@ -25,12 +25,29 @@ Some may lead to either free or low cost service offerings available online.
 
 Oh, did I mention I *really* love bass?  Apologies in advance.  ;)
 
+## Bass Rigs
+
+If you want to checkout some example of various bass rigs you can start [here](./docs/rigs/rigs.md).
+
+Or by topic:
+
+- [Home Studio](./docs/rigs/rigs.md#home-studio-rig)
+- [Travel/Jam](./docs/rigs/rigs.md#travel-practice--jam-rig)
+- [Performance](./docs/rigs/rigs.md#performance-rig)
+- [Outdoor Gig Rig signal chains](./docs/rigs/gig/band-gig-configuration.md)
+
+For instance gratification, you can see some diagrams:
+
+- [Home Studio](./docs/rigs/home/home-studio-rig.svg) and [Software Routing configuration](./docs/rigs/home/loopback-configuration.png)
+- [Travel/Jam](./docs/rigs/performance/performance-rig.svg)
+- [Performance](./docs/rigs/performance/performance-rig.svg)
+- [Outdoor Gig Rig signal chains](./docs/rigs/gig/gig-signal-chains.svg) and [power configuration](./docs/rigs/gig/gig-power-topology.svg)
+
 ## Project candidates
 
 The following are some of the projects at the inception phase:
 
 - [SuperJamm](https://github.com/muze-interactive/superjamm): Herd the cats during Open Jams
-- [Practice Rig](https://github.com/muze-interactive/practice-rig-setups): Some examples of modern practice rig setups
 - [Practice Guide](https://github.com/muze-interactive/practice-guide): Organize practice sessions inline with a focused learning path
 
 Feel free to reach out to us at [admin@muze-interactive.live](mailto:admin@muze-interactive.live),
