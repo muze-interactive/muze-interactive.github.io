@@ -8,9 +8,6 @@ guitar rig, and the **drummer** brings the drums. **The bassist's contribution i
 the bass signal chain**, which integrates with the PA at FOH through a single,
 consistent handoff: the **Radial JDI**'s XLR DI output into the Band Leader's mixer.
 
-> Roles are used in place of names throughout, so this can serve as a general
-> example. "Mine" / first-person refers to the bassist whose rig is documented.
-
 It captures two views, kept as separate diagrams because a single combined diagram
 of ~20 components plus AC/DC power would be too dense to read:
 
@@ -178,6 +175,3 @@ Gotta keep the drummer cool, and the band dry.
 | XLR male→female, 25 ft | 7 | Bassist (1) / Band Leader (6) | Vocal, drums, guitar mics, bass DI |
 | TRS → XLR (female), 25 ft | 1 | Band Leader | Vocal FX (TRS) to mixer |
 | XLR (male) → TRS, 6 ft | 1 | Bassist | TE ELF DI to GK send |
-
-> **Source:** the gig spreadsheet (component/cabling and BOM worksheets). Connector
-> types, quantities, and amp→speaker assignments are taken from the cabling columns.
