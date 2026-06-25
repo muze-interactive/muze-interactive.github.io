@@ -3,6 +3,15 @@
 
 @import "{{ site.theme }}";
 
+// The architect theme ships a responsive-image rule for `#main-content img`
+// (hyphen), but the layout's element is `#main_content` (underscore), so the
+// rule never matches and wide SVG diagrams overflow the 940px content column.
+// Re-apply it against the correct id so diagrams scale to fit the text width.
+#main_content img {
+  max-width: 100%;
+  height: auto;
+}
+
 #header_wrap {
   background: #b5b5b5;
   background-image: linear-gradient(to bottom, #d2d2d2 0%, #9a9a9a 100%);
