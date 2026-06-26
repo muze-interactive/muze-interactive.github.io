@@ -72,12 +72,12 @@ All AC comes from the **venue wall** over two 50 ft runs:
   - **Drums strip** → the drummer's cooling fan (120 VAC) for extra ventilation. The
     drum mics themselves take phantom power from the mixer, so they need no AC.
   - **Bass strip** → HX Stomp (12 VDC adapter), MXR compressor (9 VDC adapter),
-    iPad and the BT/TRS adapter (USB-C).
+    iPad and the BT/TRS adapter (USB-C), and the TC Helicon Mic Mechanic
+    (9 VDC adapter) — the backup vocal sits next to the bassist.
   - **Bass-monitor strip** → Trace Elliot ELF and GK Fusion 112 (both 120 VAC).
 
-**No AC distribution needed:** the active basses (9 V battery — keep spares), the
-TC Helicon Mic Mechanic (9 V battery or adapter), and the iPhone (Lightning,
-charged off USB).
+**No AC distribution needed:** the active basses (9 V battery — keep spares) and
+the iPhone (Lightning, charged off USB).
 
 ## Ownership
 
@@ -131,7 +131,7 @@ Gotta keep the drummer cool, and the band dry.
 |------|-----|-------|-------|-------|
 | HX Stomp | 1 | 12 VDC adapter | Bassist | Primary bass FX rig |
 | MXR Compressor | 1 | 9 VDC adapter | Bassist | Backup bass FX rig |
-| TC Helicon Mic Mechanic | 1 | 9 V battery / adapter | Band Leader | Vocal FX |
+| TC Helicon Mic Mechanic | 1 | 9 VDC adapter | Band Leader | Vocal FX — powered off the bass strip (backup vocal sits by the bassist) |
 | Radial JDI Passive | 1 | — | Bassist | Bass-rig FOH DI |
 | Guitar FX | — | — | Guitarist | Guitarist covers, independent of FOH |
 

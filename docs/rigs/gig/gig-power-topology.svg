@@ -37,8 +37,8 @@
   <text class="s" x="1050" y="258">to area power strips (10 ft ext)</text>
 
   <!-- ===================== FOH RACK GROUP ===================== -->
-  <rect class="grp" x="100" y="300" width="280" height="300" rx="12"/>
-  <text class="gl" x="116" y="320">FOH RACK (120 VAC)</text>
+  <rect class="grp" x="100" y="190" width="280" height="410" rx="12"/>
+  <text class="gl" x="116" y="208">FOH RACK (120 VAC)</text>
 
   <rect x="120" y="332" width="240" height="52" rx="9" fill="#ffe4e6" stroke="#e11d48" stroke-width="1.5"/>
   <text class="l" x="240" y="364">Yamaha Mixer</text>
@@ -97,6 +97,9 @@
   <rect x="850" y="596" width="200" height="50" rx="9" fill="#e0f2fe" stroke="#0284c7" stroke-width="1.5"/>
   <text class="l" x="950" y="626">BT / TRS adapter · USB-C</text>
 
+  <rect x="850" y="658" width="200" height="50" rx="9" fill="#e0e7ff" stroke="#4f46e5" stroke-width="1.5"/>
+  <text class="l" x="950" y="688">TC Helicon · 9 VDC</text>
+
   <!-- Bass-monitor strip consumers -->
   <rect x="1100" y="410" width="200" height="56" rx="9" fill="#ffe4e6" stroke="#e11d48" stroke-width="1.5"/>
   <text class="l" x="1200" y="442">Trace Elliot ELF</text>
@@ -137,16 +140,16 @@
   <line class="pw" x1="950" y1="460" x2="950" y2="472" marker-end="url(#arrp)"/>
   <line class="pw" x1="950" y1="522" x2="950" y2="534" marker-end="url(#arrp)"/>
   <line class="pw" x1="950" y1="584" x2="950" y2="596" marker-end="url(#arrp)"/>
+  <line class="pw" x1="950" y1="646" x2="950" y2="658" marker-end="url(#arrp)"/>
 
   <line class="pw" x1="1200" y1="356" x2="1200" y2="410" marker-end="url(#arrp)"/>
   <line class="pw" x1="1200" y1="466" x2="1200" y2="482" marker-end="url(#arrp)"/>
 
   <!-- ===================== BATTERY / NO-AC PANEL ===================== -->
-  <rect class="panel" x="430" y="540" width="380" height="120" rx="14"/>
+  <rect class="panel" x="430" y="540" width="380" height="98" rx="14"/>
   <text class="lh" x="450" y="566">No AC distribution needed</text>
   <text class="lb" x="450" y="592">• Active basses — 9 V battery (keep spares)</text>
-  <text class="lb" x="450" y="614">• TC Helicon Mic Mechanic — 9 V battery / adapter</text>
-  <text class="lb" x="450" y="636">• iPhone — Lightning (charge off USB)</text>
+  <text class="lb" x="450" y="614">• iPhone — Lightning (charge off USB)</text>
 
   <!-- ===================== LEGEND ===================== -->
   <rect class="panel" x="40" y="620" width="370" height="120" rx="14"/>
